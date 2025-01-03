@@ -1,2 +1,2 @@
 # alpharepo
-## texto de ejemplo : v
+## texto de ejemplo 
